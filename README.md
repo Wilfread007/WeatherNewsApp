@@ -44,3 +44,10 @@ A React Native app that fetches and displays **weather data** and **news headlin
    ```bash
    git clone https://github.com/yourusername/weather-news-app.git
    cd weather-news-app
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](./screenshots/home.jpeg)
+
+### 🌤️ setting View
+![Weather Info](./screenshots/setting.jpeg)
